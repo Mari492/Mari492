@@ -4,7 +4,7 @@
 ### 👨🏻‍💻  About Me
  👨‍💻 I'm currently diving into the world of programming and exploring various technologies to build my skillset.   
  <br>🌱 Here's what I'm learning right now:
- - **Languages:** C, C++, JavaScript
+ - **Languages:** C++, JavaScript
  - **Web Development:** HTML, CSS, Tailwind
  - **Backend Technologies:** Node.js
  - **And more as I continue to explore!**
