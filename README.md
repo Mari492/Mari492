@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/kaykeeman/" target="_blank">
+<a href="https://www.linkedin.com/in/mariana-fonseca-reis-tavares-385597294/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
